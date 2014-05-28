@@ -39,7 +39,7 @@ class Cinema extends \yii\db\ActiveRecord
     public function attributeLabels()
     {
         return [
-            'id' => Yii::t('app', 'ddID'),
+            'id' => Yii::t('app', 'ID'),
             'name' => Yii::t('app', 'Surname'),
         ];
     }

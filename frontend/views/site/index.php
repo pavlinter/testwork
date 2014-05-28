@@ -18,7 +18,7 @@ $this->title = 'Cinema';
 <div class="session-index">
 
 
-
+tetst
     <?= GridView::widget([
         'dataProvider' => $dataProvider,
         'filterModel' => $searchModel,
