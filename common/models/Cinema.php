@@ -40,7 +40,7 @@ class Cinema extends \yii\db\ActiveRecord
     {
         return [
             'id' => Yii::t('app', 'ID'),
-            'name' => Yii::t('app', 'Surname'),
+            'name' => Yii::t('app', 'Name'),
         ];
     }
 
